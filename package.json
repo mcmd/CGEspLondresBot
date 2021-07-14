@@ -1,0 +1,10 @@
+{
+  "name": "CGEspLondresBot-checkSlots",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.9.0",
+    "twit": "^2.2.11",
+    "@google-cloud/secret-manager": "^3.1.0",
+    "puppeteer": "^10.1.0"
+  }
+}
