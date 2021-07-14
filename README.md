@@ -2,13 +2,13 @@
 
 This is a simple Twitter bot that checks for the availability of appointment slot for reniewing your passport at the [Spanish Consulate General in London](https://twitter.com/cgesplondres) in the Twitter handle [@CGEspLondresBot](https://mobile.twitter.com/CGEspLondresBot).
 
-This bot exists due to the difficulties the Spanish community has had finding and booking these slots. Also, the consulkate currentkly doesn't have the resources to publicize the slots when they make them available, or to send any kind of notification when anything changes in their website.
+This bot exists due to the difficulties the Spanish community has been having while finding and booking these slots. Also, the consulkate currentkly doesn't have the resources to publicize the slots when they make them available, or to send any kind of notification when anything changes in their website.
 
 The bot is deployed a a [GCP Cloud function](https://cloud.google.com/functions) and scheduled to run every hour with [Cloud Scheduler](https://cloud.google.com/scheduler). I think this is a respectful approach that should not mean any negative impact to the consulate nor their booking vendor.
 
 The bot currently tweet a single sentence indicating the availability, as well as a screenshot of the booking tool.
 
-Having this information in a public Twitter account hopefully will increase discoverability of the slots. It should also make much easier to propagate this info to other places where the Spanish community interact, like Facebook groups. Using something like IFTTT or Zapier should be straight forward.
+Having this information in a public Twitter account hopefully will increase discoverability of the slots. It should also make much easier to propagate this info to other places where the Spanish community interacts, like Facebook groups. Using something like IFTTT or Zapier should be straight forward.
 
 # What's next
 There are some ideas of other things this bot could do:
