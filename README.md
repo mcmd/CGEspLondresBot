@@ -1,6 +1,6 @@
 # CGEspLondresBot
 
-This is a simple Twitter bot that checks for the availability of appointment slot for reniewing your passport at the [Spanish Consulate General in London](https://twitter.com/cgesplondres) in the Twitter handle [@CGEspLondresBot](https://mobile.twitter.com/CGEspLondresBot).
+This is a simple Twitter bot that checks for the availability of appointment slot for renewing your passport at the [Spanish Consulate General in London](https://twitter.com/cgesplondres) in the Twitter handle [@CGEspLondresBot](https://mobile.twitter.com/CGEspLondresBot).
 
 This bot exists due to the difficulties the Spanish community has been having while finding and booking these slots. Also, the consulkate currentkly doesn't have the resources to publicize the slots when they make them available, or to send any kind of notification when anything changes in their website.
 
