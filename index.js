@@ -55,7 +55,7 @@ exports.checkSlots = async (req, res) => {
         await page.emulate(iPhonex);
 
         await page.goto(
-            'https://app.bookitit.com/es/hosteds/widgetdefault/2e683196f06adbdb38495c2b60c3db653', {
+            'https://app.bookitit.com/es/hosteds/widgetdefault/2a8f04d98b76068c9cd269ee5963f82a7', {
             waitUntil: 'networkidle0',
             /* referer is requerired because if not bookitit will return a blank 
             page. This behavior changes from widget to widget, so if you are going 
